@@ -1,1 +1,14 @@
-This is the test 3 documents details 
+public class PrintFunction {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		System.out.println("Hello Sairha");
+
+	}
+
+}
