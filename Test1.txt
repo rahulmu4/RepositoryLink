@@ -7,4 +7,7 @@ public class Ebay extends Company {
 		System.out.println("Function call from class Ebay");
 	}
 
+public void Function1(){
+}
+
 }
