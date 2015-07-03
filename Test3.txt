@@ -12,6 +12,7 @@ public class MainCompanyBlock extends Ebay{
 		comp2.address();
 comp2.address();
 comp2.address();
+comp2.address();
 		
 
 	}
